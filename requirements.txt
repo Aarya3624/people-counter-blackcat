@@ -1,0 +1,11 @@
+Flask==2.0.1
+Flask-Cors==3.0.10
+Flask-SocketIO==5.0.2
+eventlet==0.33.0
+imutils==0.5.4
+numpy==1.21.0
+opencv-python==4.5.3.56
+dlib==19.22.0
+schedule==1.1.0
+argparse==1.4.0
+gevent==21.8.0 
